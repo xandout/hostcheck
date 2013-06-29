@@ -1,3 +1,4 @@
+#!/usr/bin/python
 __author__ = 'Mitchell'
 import socket
 sock = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
